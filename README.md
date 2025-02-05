@@ -40,6 +40,10 @@ This project automates the process of logging into Quora, extracting a specific 
     python quora_bot.py
     ```
 
+## Demo
+
+![Working Demo](path/to/your/demo.gif)
+
 ## Notes
 
 - Ensure that you have Chrome installed on your machine.
