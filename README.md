@@ -50,7 +50,9 @@ This project automates the process of logging into Quora, extracting a specific 
 
 ## Demo
 
-![Working Demo](quora_bot_demo.mp4)
+https://github.com/user-attachments/assets/4ae10001-b28f-4558-ab3f-6ccb4a963dad
+
+
 
 ## Notes
 
