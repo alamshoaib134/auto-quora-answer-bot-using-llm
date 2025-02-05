@@ -50,7 +50,7 @@ This project automates the process of logging into Quora, extracting a specific 
 
 ## Demo
 
-![Working Demo](Automated Quora Response using LLM.mp4)
+![Working Demo](quora_bot_demo.mp4)
 
 ## Notes
 
