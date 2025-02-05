@@ -1,6 +1,14 @@
 # Quora Bot
 
-This project automates the process of logging into Quora, extracting a specific answer, generating a response using OpenAI, and posting the generated response back to Quora.
+This project automates the process of logging into Quora, extracting a specific answer, generating a response using OpenAI, and posting the generated response back to Quora. It leverages Selenium for web automation and OpenAI's API for generating intelligent responses. This bot can be useful for automating repetitive tasks on Quora, such as answering frequently asked questions.
+
+## Features
+
+- **Automated Login**: Automatically logs into Quora using provided credentials.
+- **Answer Extraction**: Extracts specific answers from Quora.
+- **AI Response Generation**: Uses OpenAI to generate intelligent responses based on extracted answers.
+- **Automated Posting**: Posts the generated responses back to Quora.
+- **Error Handling**: Includes basic error handling for common issues like element not found.
 
 ## Requirements
 
